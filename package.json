@@ -1,0 +1,11 @@
+{
+  "author": {
+    "name": "Jackson Levitt",
+    "email": "jackel1020@protonmail.com"
+  },
+  "description": "Quality of Life",
+  "displayName": "Red Moon QoL",
+  "name": "io.crazyjackel.redmoon-QoL",
+  "unity": "2020.3",
+  "version": "1.0.0"
+}
